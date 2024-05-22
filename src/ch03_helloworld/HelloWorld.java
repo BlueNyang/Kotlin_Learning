@@ -1,4 +1,4 @@
-package ch03;
+package ch03_helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {
